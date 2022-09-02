@@ -36,7 +36,7 @@ void MainWindow::on_actionOpen_triggered()
     QFile file(file_name);
     file_path = file_name;
     if(!file.open(QFile::ReadOnly|QFile::Text)) {
-        QMessageBox::warning(this,"title","Dosya oluşturulamadı");
+        QMessageBox::warning(this,"Feyyaz","Dosya oluşturulamadı");
     }
     QTextStream in(&file);
     QString text=in.readAll();
