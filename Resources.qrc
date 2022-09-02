@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/ressource">
+        <file>img/copy-icon-17.jpg</file>
+        <file>img/newfile.webp</file>
+        <file>img/openfile.png</file>
+        <file>img/Oxygen-Icons.org-Oxygen-Actions-help-about.ico</file>
+        <file>img/paste.png</file>
+        <file>img/redo.ico</file>
+        <file>img/save as.ico</file>
+        <file>img/save.ico</file>
+        <file>img/undo.png</file>
+        <file>img/cut1.png</file>
+    </qresource>
+</RCC>
