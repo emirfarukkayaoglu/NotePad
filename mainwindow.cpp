@@ -68,7 +68,7 @@ void MainWindow::on_actionSave_as_triggered()
     file_path = file_name;
 
     if(!file.open(QFile::WriteOnly|QFile::Text)) {
-        QMessageBox::warning(this,"title","Dosya oluşturulamadı");
+        QMessageBox::warning(this,"Title","Dosya oluşturulamadı");
     }
     QTextStream out(&file);
     QString text=ui->textEdit->toPlainText();
