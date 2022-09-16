@@ -1,4 +1,5 @@
 # NotePadApplication
 NotePad App
-[NotePadAppcolor](https://user-images.githubusercontent.com/101356293/190827586-96100fec-f5cb-4cd9-a4ca-7e7f58a8aa45.jpg)
+![NotePadAppcolor](https://user-images.githubusercontent.com/101356293/190827738-634d8c79-3cd7-4773-98bd-1ab6cade654f.jpg)
+
 
