@@ -15,6 +15,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     this->setCentralWidget(ui->textEdit);
+    MainWindow::setWindowTitle("NotePadAPP");
 }
 
 MainWindow::~MainWindow()
